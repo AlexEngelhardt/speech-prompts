@@ -9,10 +9,15 @@ from webargs import fields, validate
 from webargs.flaskparser import parser
 
 
-# This is now the recommended way to parse GET arguments. flask_restful.reqparse is deprecated.
+# This is now the recommended way to parse GET arguments. flask_restful.reqparse
+# is deprecated.
 # https://webargs.readthedocs.io/en/latest/quickstart.html
 get_lang_arg = {
-    'lang': fields.Str(default="en", required=False, validate=validate.OneOf(['en', 'de', 'fr']))
+    'lang': fields.Str(
+        default="en",
+        required=False,
+        validate=validate.OneOf(['en', 'de', 'fr'])
+    )
 }
 
 with open('questions/questions.json', 'r') as f:
@@ -37,7 +42,7 @@ class TodaysQuestion(Resource):
         return questions[mmdd][lang]
 
 
-api.add_resource(RandomQuestion, '/v1/questions/random')
-api.add_resource(TodaysQuestion, '/v1/questions/today')
+api.add_resource(RandomQuestion, '/v2/questions/random')
+api.add_resource(TodaysQuestion, '/v2/questions/today')
 
-app.run(port='5001', debug=True)
+app.run(port='5002', debug=True)
