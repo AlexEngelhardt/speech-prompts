@@ -1,0 +1,1832 @@
+{
+    "01-01": {
+        "en": "When was the last time you tried something new?",
+        "de": "Wann haben Sie das letzte Mal etwas Neues ausprobiert?",
+        "fr": "À quand remonte la dernière fois que vous avez essayé quelque chose de nouveau?"
+    },
+    "01-02": {
+        "en": "Who do you sometimes compare yourself to?",
+        "de": "Mit wem vergleichen Sie sich manchmal?",
+        "fr": "À qui vous comparez-vous parfois?"
+    },
+    "01-03": {
+        "en": "What's the most sensible thing you've ever heard someone say?",
+        "de": "Was ist das Vernünftigste, was Sie jemals von jemandem gehört haben?",
+        "fr": "Quelle est la chose la plus sensée que vous ayez jamais entendu quelqu'un dire?"
+    },
+    "01-04": {
+        "en": "What gets you excited about life?",
+        "de": "Was begeistert dich am Leben?",
+        "fr": "Qu'est-ce qui vous passionne dans la vie?"
+    },
+    "01-05": {
+        "en": "What life lesson did you learn the hard way?",
+        "de": "Welche Lektion fürs Leben hast du auf die harte Tour gelernt?",
+        "fr": "Quelle leçon de vie avez-vous appris à la dure?"
+    },
+    "01-06": {
+        "en": "What do you wish you spent more time doing five years ago?",
+        "de": "Was wünschst du dir, du hättest vor fünf Jahren mehr Zeit damit verbracht?",
+        "fr": "Que souhaiteriez-vous avoir passé plus de temps à faire il y a cinq ans?"
+    },
+    "01-07": {
+        "en": "Do you ask enough questions or do you settle for what you know?",
+        "de": "Stellen Sie genug Fragen oder geben Sie sich mit dem zufrieden, was Sie wissen?",
+        "fr": "Posez-vous suffisamment de questions ou vous contentez-vous de ce que vous savez?"
+    },
+    "01-08": {
+        "en": "Who do you love and what are you doing about it?",
+        "de": "Wen liebst du und was machst du dagegen?",
+        "fr": "Qui aimez-vous et que faites-vous à ce sujet?"
+    },
+    "01-09": {
+        "en": "What's a belief that you hold with which many people disagree?",
+        "de": "Was glauben Sie, mit dem viele Menschen nicht einverstanden sind?",
+        "fr": "Quelle est votre croyance avec laquelle beaucoup de gens sont en désaccord?"
+    },
+    "01-10": {
+        "en": "What can you do today that you were not capable of a year ago?",
+        "de": "Was können Sie heute tun, wozu Sie vor einem Jahr noch nicht in der Lage waren?",
+        "fr": "Que pouvez-vous faire aujourd'hui dont vous n'étiez pas capable il y a un an?"
+    },
+    "01-11": {
+        "en": "Do you think crying is a sign of weakness or strength?",
+        "de": "Denken Sie, dass Weinen ein Zeichen von Schwäche oder Stärke ist?",
+        "fr": "Pensez-vous que pleurer est un signe de faiblesse ou de force?"
+    },
+    "01-12": {
+        "en": "What would you do differently if you knew nobody would judge you?",
+        "de": "Was würden Sie anders machen, wenn Sie wüssten, dass niemand Sie beurteilen würde?",
+        "fr": "Que feriez-vous différemment si vous saviez que personne ne vous jugerait?"
+    },
+    "01-13": {
+        "en": "Do you celebrate the things you do have?",
+        "de": "Feiern Sie die Dinge, die Sie haben?",
+        "fr": "Célébrez-vous les choses que vous avez?"
+    },
+    "01-14": {
+        "en": "What is the difference between living and existing?",
+        "de": "Was ist der Unterschied zwischen Leben und Bestehen?",
+        "fr": "Quelle est la différence entre vivre et exister?"
+    },
+    "01-15": {
+        "en": "If not now, then when?",
+        "de": "Wenn nicht jetzt wann dann?",
+        "fr": "Si pas maintenant, alors quand?"
+    },
+    "01-16": {
+        "en": "Have you done anything lately worth remembering?",
+        "de": "Haben Sie in letzter Zeit etwas getan, an das Sie sich erinnern sollten?",
+        "fr": "Avez-vous fait quelque chose récemment qui mérite d'être rappelé?"
+    },
+    "01-17": {
+        "en": "What does your joy look like today?",
+        "de": "Wie sieht deine Freude heute aus?",
+        "fr": "À quoi ressemble votre joie aujourd'hui?"
+    },
+    "01-18": {
+        "en": "Is it possible to lie without saying a word?",
+        "de": "Kann man lügen, ohne ein Wort zu sagen?",
+        "fr": "Est-il possible de mentir sans dire un mot?"
+    },
+    "01-19": {
+        "en": "If you had a friend who spoke to you in the same way that you sometimes speak to yourself, how long would you allow this person to be your friend?",
+        "de": "Wenn Sie einen Freund hätten, der mit Ihnen so sprach, wie Sie manchmal mit sich selbst sprechen, wie lange würden Sie dieser Person erlauben, Ihr Freund zu sein?",
+        "fr": "Si vous aviez un ami qui vous parlait de la même manière que vous vous parlez parfois à vous-même, combien de temps autoriseriez-vous cette personne à être votre ami?"
+    },
+    "01-20": {
+        "en": "Which activities make you lose track of time?",
+        "de": "Durch welche Aktivitäten verlieren Sie den Überblick über die Zeit?",
+        "fr": "Quelles activités vous font perdre le temps?"
+    },
+    "01-21": {
+        "en": "If you had to teach something, what would you teach?",
+        "de": "Wenn Sie etwas unterrichten müssten, was würden Sie unterrichten?",
+        "fr": "Si vous deviez enseigner quelque chose, qu'enseigneriez-vous?"
+    },
+    "01-22": {
+        "en": "What would you regret not fully doing, being or having in your life?",
+        "de": "Was würden Sie bereuen, wenn Sie es nicht vollständig getan, gewesen oder in Ihrem Leben gehabt haben?",
+        "fr": "Que regretteriez-vous de ne pas avoir complètement fait, d'être ou d'avoir dans votre vie?"
+    },
+    "01-23": {
+        "en": "Are you holding onto something that youneed to let go of?",
+        "de": "Halten Sie an etwas fest, das Sie loslassen müssen?",
+        "fr": "Tenez-vous quelque chose que vous devez abandonner?"
+    },
+    "01-24": {
+        "en": "When you are 80-years-old, what will matter to you the most?",
+        "de": "Was ist für Sie am wichtigsten, wenn Sie 80 Jahre alt sind?",
+        "fr": "À 80 ans, qu'est-ce qui vous importera le plus?"
+    },
+    "01-25": {
+        "en": "When is it time to stop calculating risk and rewards and just do what you know is right?",
+        "de": "Wann ist es an der Zeit, die Berechnung von Risiko und Ertrag einzustellen und einfach das zu tun, was Sie für richtig halten?",
+        "fr": "Quand est-il temps d'arrêter de calculer le risque et les récompenses et de faire ce que vous savez être juste?"
+    },
+    "01-26": {
+        "en": "How old would you be if you didn't know how old you are?",
+        "de": "Wie alt wären Sie, wenn Sie nicht wüssten, wie alt Sie sind?",
+        "fr": "Quel âge auriez-vous si vous ne saviez pas quel âge vous avez?"
+    },
+    "01-27": {
+        "en": "Would you break the law to save a loved one?",
+        "de": "Würden Sie das Gesetz brechen, um einen geliebten Menschen zu retten?",
+        "fr": "Souhaitez-vous enfreindre la loi pour sauver un être cher?"
+    },
+    "01-28": {
+        "en": "What makes you smile?",
+        "de": "Was bringt dich zum Lächeln?",
+        "fr": "Ce qui vous fait sourire?"
+    },
+    "01-29": {
+        "en": "When it's all said and done, will you have said more than you've done?",
+        "de": "Wenn alles gesagt und getan ist, haben Sie dann mehr gesagt als getan?",
+        "fr": "Quand tout sera dit et fait, en aurez-vous dit plus que vous ne l'avez fait?"
+    },
+    "01-30": {
+        "en": "If you had the opportunity to get a message across to a large group of people, what would your message be?",
+        "de": "Wenn Sie die Möglichkeit hätten, eine Nachricht an eine große Gruppe von Personen weiterzuleiten, welche wäre Ihre Nachricht?",
+        "fr": "Si vous aviez l'occasion de faire passer un message à un grand groupe de personnes, quel serait votre message?"
+    },
+    "01-31": {
+        "en": "If the average human lifespan was 40 years, how would you live your life differently?",
+        "de": "Wenn die durchschnittliche Lebenserwartung des Menschen 40 Jahre betragen würde, wie würden Sie Ihr Leben anders leben?",
+        "fr": "Si la durée de vie humaine moyenne était de 40 ans, comment vivriez-vous votre vie différemment?"
+    },
+    "02-01": {
+        "en": "What do we all have in common besides our genes that makes us human?",
+        "de": "Was haben wir alle gemeinsam außer unseren Genen, die uns menschlich machen?",
+        "fr": "Qu'avons-nous tous en commun à part nos gènes qui nous rendent humains?"
+    },
+    "02-02": {
+        "en": "If you could choose one book as a mandatory read for all high school students, which book would you choose?",
+        "de": "Wenn Sie ein Buch als Pflichtlektüre für alle Schüler auswählen könnten, welches Buch würden Sie wählen?",
+        "fr": "Si vous pouviez choisir un livre comme lecture obligatoire pour tous les élèves du secondaire, quel livre choisiriez-vous?"
+    },
+    "02-03": {
+        "en": "Would you rather have less work or more work you actually enjoy doing?",
+        "de": "Möchten Sie lieber weniger oder mehr Arbeit haben, die Sie tatsächlich gerne tun?",
+        "fr": "Préférez-vous avoir moins de travail ou plus de travail que vous aimez réellement faire?"
+    },
+    "02-04": {
+        "en": "What is important enough to go to war over?",
+        "de": "Was ist wichtig genug, um in den Krieg zu ziehen?",
+        "fr": "Qu'est-ce qui est assez important pour faire la guerre?"
+    },
+    "02-05": {
+        "en": "Which is worse, failing or never trying?",
+        "de": "Was ist schlimmer, scheitert oder versucht es nie?",
+        "fr": "Qu'est-ce qui est pire, échouer ou ne jamais essayer?"
+    },
+    "02-06": {
+        "en": "When was the last time you listened to the sound of your own breathing?",
+        "de": "Wann haben Sie das letzte Mal das Geräusch Ihrer eigenen Atmung gehört?",
+        "fr": "À quand remonte la dernière fois que vous avez écouté le son de votre propre respiration?"
+    },
+    "02-07": {
+        "en": "What's something you know you do differently than most people?",
+        "de": "Was wissen Sie anders als die meisten Menschen?",
+        "fr": "Qu'est-ce que vous savez faire différemment de la plupart des gens?"
+    },
+    "02-08": {
+        "en": "What does 'The American Dream' mean to you?",
+        "de": "Was bedeutet \"The American Dream\" für Sie?",
+        "fr": "Que signifie «The American Dream» pour vous?"
+    },
+    "02-09": {
+        "en": "Would you rather be a worried genius or a joyful simpleton?",
+        "de": "Würdest du lieber ein besorgtes Genie oder ein freudiger Simpleton sein?",
+        "fr": "Préférez-vous être un génie inquiet ou un simplet joyeux?"
+    },
+    "02-10": {
+        "en": "If you could instill one piece of advice in a newborn baby's mind, what advice would you give?",
+        "de": "Wenn Sie einem Neugeborenen einen Ratschlag geben könnten, welchen Rat würden Sie geben?",
+        "fr": "Si vous pouviez instiller un conseil dans l'esprit d'un nouveau-né, quel conseil donneriez-vous?"
+    },
+    "02-11": {
+        "en": "What is the most desirable trait another person can possess?",
+        "de": "Was ist das wünschenswerteste Merkmal, das eine andere Person besitzen kann?",
+        "fr": "Quel est le trait le plus souhaitable qu'une autre personne puisse posséder?"
+    },
+    "02-12": {
+        "en": "What are you most grateful for?",
+        "de": "Wofür bist du am dankbarsten?",
+        "fr": "De quoi êtes-vous le plus reconnaissant?"
+    },
+    "02-13": {
+        "en": "Is stealing to feed a starving child wrong?",
+        "de": "Ist es falsch, zu stehlen, um ein hungerndes Kind zu ernähren?",
+        "fr": "Est-ce mal de voler pour nourrir un enfant affamé?"
+    },
+    "02-14": {
+        "en": "What do you want most?",
+        "de": "Was willst du am meisten?",
+        "fr": "Que voulez-vous le plus?"
+    },
+    "02-15": {
+        "en": "Are you more worried about doing things right, or doing the right things?",
+        "de": "Sind Sie mehr besorgt darüber, Dinge richtig zu machen oder die richtigen Dinge zu tun?",
+        "fr": "Êtes-vous plus soucieux de bien faire les choses ou de faire les bonnes choses?"
+    },
+    "02-16": {
+        "en": "What has life taught you recently?",
+        "de": "Was hat dir das Leben in letzter Zeit beigebracht?",
+        "fr": "Qu'est-ce que la vie vous a appris récemment?"
+    },
+    "02-17": {
+        "en": "What is the one thing you would most like to change about the world?",
+        "de": "Was möchten Sie am liebsten an der Welt ändern?",
+        "fr": "Quelle est la chose que vous aimeriez le plus changer dans le monde?"
+    },
+    "02-18": {
+        "en": "Where do you find inspiration?",
+        "de": "Wo findest du Inspiration?",
+        "fr": "Où trouvez-vous l'inspiration?"
+    },
+    "02-19": {
+        "en": "Can you describe your life in a six word sentence?",
+        "de": "Können Sie Ihr Leben in einem Satz mit sechs Wörtern beschreiben?",
+        "fr": "Pouvez-vous décrire votre vie en une phrase de six mots?"
+    },
+    "02-20": {
+        "en": "If we learn from our mistakes, why are we always so afraid to make a mistake?",
+        "de": "Wenn wir aus unseren Fehlern lernen, warum haben wir dann immer solche Angst, einen Fehler zu machen?",
+        "fr": "Si nous apprenons de nos erreurs, pourquoi avons-nous toujours si peur de faire une erreur?"
+    },
+    "02-21": {
+        "en": "What impact do you want to leave on the world?",
+        "de": "Welchen Einfluss möchten Sie auf die Welt haben?",
+        "fr": "Quel impact souhaitez-vous laisser sur le monde?"
+    },
+    "02-22": {
+        "en": "What is the most defining moment of your life thus far?",
+        "de": "Was ist der bisher entscheidendste Moment Ihres Lebens?",
+        "fr": "Quel est le moment le plus déterminant de votre vie jusqu'à présent?"
+    },
+    "02-23": {
+        "en": "In the haste of your daily life, what are you not seeing?",
+        "de": "Was sehen Sie in der Eile Ihres täglichen Lebens nicht?",
+        "fr": "Dans la hâte de votre vie quotidienne, que ne voyez-vous pas?"
+    },
+    "02-24": {
+        "en": "If life is so short, why do we do so many things we don't like and like so many things we don't do?",
+        "de": "Wenn das Leben so kurz ist, warum machen wir dann so viele Dinge, die wir nicht mögen und mögen wir so viele Dinge, die wir nicht tun?",
+        "fr": "Si la vie est si courte, pourquoi faisons-nous tant de choses que nous n'aimons pas et que nous aimons tant de choses que nous ne faisons pas?"
+    },
+    "02-25": {
+        "en": "What lifts your spirits when life gets you down?",
+        "de": "Was hebt deine Stimmung, wenn das Leben dich runter bringt?",
+        "fr": "Qu'est-ce qui remonte le moral lorsque la vie vous déprime?"
+    },
+    "02-26": {
+        "en": "Have you everregretted something you did not say or do?",
+        "de": "Haben Sie jemals etwas bereut, was Sie nicht gesagt oder getan haben?",
+        "fr": "Avez-vous déjà regretté quelque chose que vous n'avez pas dit ou fait?"
+    },
+    "02-27": {
+        "en": "Has your greatest fear ever come true?",
+        "de": "Hat sich Ihre größte Angst jemals erfüllt?",
+        "fr": "Votre plus grande peur s'est-elle jamais réalisée?"
+    },
+    "02-28": {
+        "en": "Why do we think of others the most when they're gone?",
+        "de": "Warum denken wir am meisten an andere, wenn sie weg sind?",
+        "fr": "Pourquoi pensons-nous le plus aux autres quand ils sont partis?"
+    },
+    "02-29": {
+        "en": "What is your most beloved childhood memory?",
+        "de": "Was ist Ihre beliebteste Kindheitserinnerung?",
+        "fr": "Quel est votre souvenir d'enfance le plus aimé?"
+    },
+    "03-01": {
+        "en": "Is it more important to love or be loved?",
+        "de": "Ist es wichtiger zu lieben oder geliebt zu werden?",
+        "fr": "Est-il plus important d'aimer ou d'être aimé?"
+    },
+    "03-02": {
+        "en": "If it all came back around to you, would it help you or hurt you?",
+        "de": "Wenn alles zu dir zurückkehren würde, würde es dir helfen oder dich verletzen?",
+        "fr": "Si tout cela vous revenait, cela vous aiderait-il ou vous ferait-il mal?"
+    },
+    "03-03": {
+        "en": "If you had the chance to go back in time and change one thing would you do it?",
+        "de": "Wenn Sie die Möglichkeit hätten, in die Vergangenheit zu reisen und eines zu ändern, würden Sie es tun?",
+        "fr": "Si vous aviez la chance de remonter le temps et de changer une chose, le feriez-vous?"
+    },
+    "03-04": {
+        "en": "If a doctor gave you five years to live, what would you try to accomplish?",
+        "de": "Wenn ein Arzt Ihnen fünf Jahre zum Leben geben würde, was würden Sie versuchen zu erreichen?",
+        "fr": "Si un médecin vous donnait cinq ans à vivre, qu'essaieriez-vous d'accomplir?"
+    },
+    "03-05": {
+        "en": "What is the difference between falling in love and being in love?",
+        "de": "Was ist der Unterschied zwischen Verlieben und Verlieben sein?",
+        "fr": "Quelle est la différence entre tomber amoureux et être amoureux?"
+    },
+    "03-06": {
+        "en": "Whodo you think stands between you and happiness?",
+        "de": "Wer steht deiner Meinung nach zwischen dir und dem Glück?",
+        "fr": "Qui pensez-vous se tient entre vous et le bonheur?"
+    },
+    "03-07": {
+        "en": "What is the difference between innocence and ignorance?",
+        "de": "Was ist der Unterschied zwischen Unschuld und Unwissenheit?",
+        "fr": "Quelle est la différence entre l'innocence et l'ignorance?"
+    },
+    "03-08": {
+        "en": "What is the simplest truth you can express in words?",
+        "de": "Was ist die einfachste Wahrheit, die Sie in Worten ausdrücken können?",
+        "fr": "Quelle est la vérité la plus simple que vous puissiez exprimer avec des mots?"
+    },
+    "03-09": {
+        "en": "What gives your life meaning?",
+        "de": "Was gibt deinem Leben einen Sinn?",
+        "fr": "Qu'est-ce qui donne un sens à votre vie?"
+    },
+    "03-10": {
+        "en": "Can there be happiness without sadness?Pleasure without pain?Peace without war?",
+        "de": "Kann es Glück ohne Traurigkeit geben, Vergnügen ohne Schmerz, Frieden ohne Krieg?",
+        "fr": "Peut-il y avoir du bonheur sans tristesse, du plaisir sans douleur, de la paix sans guerre?"
+    },
+    "03-11": {
+        "en": "What's the one thing you'd like others to remember about you at the end of your life?",
+        "de": "Woran sollen sich andere am Ende Ihres Lebens erinnern?",
+        "fr": "Quelle est la seule chose que vous aimeriez que les autres se souviennent de vous à la fin de votre vie?"
+    },
+    "03-12": {
+        "en": "Is there such a thing as perfect?",
+        "de": "Gibt es so etwas wie perfekt?",
+        "fr": "Existe-t-il une chose aussi parfaite?"
+    },
+    "03-13": {
+        "en": "To what degree have you actually controlled the course your life has taken?",
+        "de": "Inwieweit haben Sie tatsächlich den Verlauf Ihres Lebens kontrolliert?",
+        "fr": "Dans quelle mesure avez-vous réellement contrôlé le cours de votre vie?"
+    },
+    "03-14": {
+        "en": "What does it mean to be human?",
+        "de": "Was bedeutet es, menschlich zu sein?",
+        "fr": "Que signifie être humain?"
+    },
+    "03-15": {
+        "en": "If you looked into the heart of your enemy, what do you think you would find that is different from what is in your own heart?",
+        "de": "Wenn Sie in das Herz Ihres Feindes schauen würden, was würden Sie Ihrer Meinung nach anders finden als in Ihrem eigenen Herzen?",
+        "fr": "Si vous regardiez le cœur de votre ennemi, que pensez-vous que vous trouveriez différent de ce qui est dans votre cœur?"
+    },
+    "03-16": {
+        "en": "What do you love most about yourself?",
+        "de": "Was liebst du am meisten an dir?",
+        "fr": "Qu'aimez-vous le plus chez vous?"
+    },
+    "03-17": {
+        "en": "Where would you most like to go and why?",
+        "de": "Wohin möchten Sie am liebsten und warum?",
+        "fr": "Où aimeriez-vous le plus aller et pourquoi?"
+    },
+    "03-18": {
+        "en": "Is it more important to do what you love or to love what you aredoing?",
+        "de": "Ist es wichtiger zu tun, was du liebst oder zu lieben, was du tust?",
+        "fr": "Est-il plus important de faire ce que vous aimez ou d'aimer ce que vous aimez?"
+    },
+    "03-19": {
+        "en": "What do you imagine yourself doing ten years from now?",
+        "de": "Was stellst du dir in zehn Jahren vor?",
+        "fr": "Que vous imaginez-vous faire dans dix ans?"
+    },
+    "03-20": {
+        "en": "What small act of kindness were you once shown that you will never forget?",
+        "de": "Welchen kleinen Akt der Freundlichkeit wurde Ihnen einmal gezeigt, den Sie nie vergessen werden?",
+        "fr": "Quel petit acte de gentillesse vous a-t-on montré une fois que vous n'oublierez jamais?"
+    },
+    "03-21": {
+        "en": "What is your happiest childhood memory? What makes it so special?",
+        "de": "Was ist deine glücklichste Kindheitserinnerung? Was macht es so besonders?",
+        "fr": "Quel est votre souvenir d'enfance le plus heureux? Qu'est-ce qui le rend si spécial?"
+    },
+    "03-22": {
+        "en": "Do you own your things or do your things own you?",
+        "de": "Besitzen Sie Ihre Sachen oder besitzen Sie Ihre Sachen?",
+        "fr": "Possédez-vous vos biens ou possédez-vous vos biens?"
+    },
+    "03-23": {
+        "en": "Would you rather lose all of your old memories or never be able to make new ones?",
+        "de": "Möchten Sie lieber alle Ihre alten Erinnerungen verlieren oder nie in der Lage sein, neue zu machen?",
+        "fr": "Préférez-vous perdre tous vos anciens souvenirs ou ne jamais pouvoir en créer de nouveaux?"
+    },
+    "03-24": {
+        "en": "How do you deal with someone in a position of power who wants you to fail?",
+        "de": "Wie gehen Sie mit jemandem in einer Machtposition um, der möchte, dass Sie scheitern?",
+        "fr": "Comment traitez-vous avec quelqu'un en position de pouvoir qui veut que vous échouiez?"
+    },
+    "03-25": {
+        "en": "What do you have that you cannot live without?",
+        "de": "Was hast du, ohne das du nicht leben kannst?",
+        "fr": "De quoi avez-vous dont vous ne pouvez pas vous passer?"
+    },
+    "03-26": {
+        "en": "When you close your eyes what do you see?",
+        "de": "Was sehen Sie, wenn Sie die Augen schließen?",
+        "fr": "Lorsque vous fermez les yeux, que voyez-vous?"
+    },
+    "03-27": {
+        "en": "What sustains you on a daily basis?",
+        "de": "Was stützt dich täglich?",
+        "fr": "Qu'est-ce qui vous soutient au quotidien?"
+    },
+    "03-28": {
+        "en": "What are your top five personal values?",
+        "de": "Was sind Ihre fünf wichtigsten persönlichen Werte?",
+        "fr": "Quelles sont vos cinq principales valeurs personnelles?"
+    },
+    "03-29": {
+        "en": "Why must you love someone enough to let them go?",
+        "de": "Warum musst du jemanden genug lieben, um ihn gehen zu lassen?",
+        "fr": "Pourquoi devez-vous aimer suffisamment quelqu'un pour le laisser partir?"
+    },
+    "03-30": {
+        "en": "Do you ever celebrate the green lights?",
+        "de": "Feiern Sie jemals die grünen Lichter?",
+        "fr": "Avez-vous déjà célébré les feux verts?"
+    },
+    "03-31": {
+        "en": "What personal prisons have you built out of fears?",
+        "de": "Welche persönlichen Gefängnisse haben Sie aus Ängsten gebaut?",
+        "fr": "Quelles prisons personnelles avez-vous construites par peur?"
+    },
+    "04-01": {
+        "en": "What one thing have you not done that you really want to do?",
+        "de": "Was hast du nicht getan, was du wirklich tun willst?",
+        "fr": "Qu'est-ce que vous n'avez pas fait que vous vouliez vraiment faire?"
+    },
+    "04-02": {
+        "en": "Why are you, you?",
+        "de": "Warum bist du, du?",
+        "fr": "Pourquoi es-tu toi?"
+    },
+    "04-03": {
+        "en": "If you haven't achieved it yet what do you have to lose?",
+        "de": "Wenn Sie es noch nicht erreicht haben, was müssen Sie verlieren?",
+        "fr": "Si vous ne l'avez pas encore atteint, que devez-vous perdre?"
+    },
+    "04-04": {
+        "en": "What three words would you use to describe the last three months of your life?",
+        "de": "Mit welchen drei Worten würden Sie die letzten drei Monate Ihres Lebens beschreiben?",
+        "fr": "Quels trois mots utiliseriez-vous pour décrire les trois derniers mois de votre vie?"
+    },
+    "04-05": {
+        "en": "Is it ever right to do the wrong thing?Is it ever wrong to do the right thing?",
+        "de": "Ist es jemals richtig, das Falsche zu tun? Ist es jemals falsch, das Richtige zu tun?",
+        "fr": "Est-il jamais juste de faire la mauvaise chose? Est-ce jamais mal de faire la bonne chose?"
+    },
+    "04-06": {
+        "en": "How would you describe 'freedom' in your own words?",
+        "de": "Wie würden Sie \"Freiheit\" in Ihren eigenen Worten beschreiben?",
+        "fr": "Comment décririez-vous la «liberté» dans vos propres mots?"
+    },
+    "04-07": {
+        "en": "What is the most important thing you could do right now in your personal life?",
+        "de": "Was ist das Wichtigste, was Sie jetzt in Ihrem persönlichen Leben tun können?",
+        "fr": "Quelle est la chose la plus importante que vous puissiez faire en ce moment dans votre vie personnelle?"
+    },
+    "04-08": {
+        "en": "If you could ask one person, alive or dead, only one question, who would you ask and what would you ask?",
+        "de": "Wenn Sie einer Person, lebend oder tot, nur eine Frage stellen könnten, wen würden Sie fragen und was würden Sie fragen?",
+        "fr": "Si vous pouviez poser une seule personne, vivante ou décédée, une seule question, qui poseriez-vous et que demanderiez-vous?"
+    },
+    "04-09": {
+        "en": "If happiness was the national currency, what kind of work would make you rich?",
+        "de": "Wenn Glück die Landeswährung wäre, welche Art von Arbeit würde Sie reich machen?",
+        "fr": "Si le bonheur était la monnaie nationale, quel genre de travail vous rendrait riche?"
+    },
+    "04-10": {
+        "en": "What is your number one goal for the next six months?",
+        "de": "Was ist Ihr oberstes Ziel für die nächsten sechs Monate?",
+        "fr": "Quel est votre objectif numéro un pour les six prochains mois?"
+    },
+    "04-11": {
+        "en": "Would you ever give up your life to save someone else?",
+        "de": "Würden Sie jemals Ihr Leben aufgeben, um jemand anderen zu retten?",
+        "fr": "Souhaitez-vous jamais abandonner votre vie pour sauver quelqu'un d'autre?"
+    },
+    "04-12": {
+        "en": "Are you happy with yourself?",
+        "de": "Bist du glücklich mit dir?",
+        "fr": "Êtes-vous content de vous?"
+    },
+    "04-13": {
+        "en": "What is the meaning of 'peace' to you?",
+        "de": "Was bedeutet \"Frieden\" für Sie?",
+        "fr": "Quelle est la signification de la «paix» pour vous?"
+    },
+    "04-14": {
+        "en": "What are three moral rules youwill never break?",
+        "de": "Welche drei moralischen Regeln werden Sie niemals brechen?",
+        "fr": "Quelles sont les trois règles morales que vous ne violerez jamais?"
+    },
+    "04-15": {
+        "en": "What does it mean to allow another person to truly love you?",
+        "de": "Was bedeutet es, einer anderen Person zu erlauben, dich wirklich zu lieben?",
+        "fr": "Que signifie permettre à une autre personne de vraiment vous aimer?"
+    },
+    "04-16": {
+        "en": "Who or what do you think of when you think of love?",
+        "de": "An wen oder was denkst du, wenn du an Liebe denkst?",
+        "fr": "À qui ou à quoi pensez-vous quand vous pensez à l'amour?"
+    },
+    "04-17": {
+        "en": "If your life was a novel, what would be the title and how would your story end?",
+        "de": "Wenn dein Leben ein Roman wäre, wie würde der Titel lauten und wie würde deine Geschichte enden?",
+        "fr": "Si votre vie était un roman, quel serait le titre et comment se terminerait votre histoire?"
+    },
+    "04-18": {
+        "en": "What would you not give up for $1,000,000 incash?",
+        "de": "Was würden Sie nicht für 1.000.000 US-Dollar aufgeben?",
+        "fr": "À quoi ne renonceriez-vous pas pour 1 000 000 $ en espèces?"
+    },
+    "04-19": {
+        "en": "When do you feel most like yourself?",
+        "de": "Wann fühlst du dich am ähnlichsten?",
+        "fr": "Quand te sens-tu le plus?"
+    },
+    "04-20": {
+        "en": "When you help someone do you ever think, \"What's in it for me\"?",
+        "de": "Wenn Sie jemandem helfen, denken Sie jemals: \"Was ist für mich drin?\"",
+        "fr": "Lorsque vous aidez quelqu'un, pensez-vous jamais: \"Qu'est-ce que cela m'apporte?\""
+    },
+    "04-21": {
+        "en": "What is your greatest challenge?",
+        "de": "Was ist Ihre größte Herausforderung?",
+        "fr": "Quel est votre plus grand défi?"
+    },
+    "04-22": {
+        "en": "How do you know when it's time to continue holding on or time to let go?",
+        "de": "Woher weißt du, wann es Zeit ist, weiter festzuhalten oder loszulassen?",
+        "fr": "Comment savez-vous quand il est temps de continuer ou de lâcher prise?"
+    },
+    "04-23": {
+        "en": "How do you define success?",
+        "de": "Wie definieren Sie Erfolg?",
+        "fr": "comment définissez-vous le succès?"
+    },
+    "04-24": {
+        "en": "If someone could tell you the exact day and time you are going to die, would you want them to tell you?",
+        "de": "Wenn Ihnen jemand den genauen Tag und die Uhrzeit Ihres Todes mitteilen könnte, möchten Sie, dass er es Ihnen sagt?",
+        "fr": "Si quelqu'un pouvait vous dire le jour et l'heure exacts de votre décès, voudriez-vous qu'il vous le dise?"
+    },
+    "04-25": {
+        "en": "If I could grant you one wish what would you wish for?",
+        "de": "Wenn ich Ihnen einen Wunsch erfüllen könnte, was würden Sie sich wünschen?",
+        "fr": "Si je pouvais vous accorder un souhait, que souhaiteriez-vous?"
+    },
+    "04-26": {
+        "en": "What have you read online recently that inspired you?",
+        "de": "Was hast du kürzlich online gelesen, das dich inspiriert hat?",
+        "fr": "Qu'avez-vous lu récemment en ligne qui vous a inspiré?"
+    },
+    "04-27": {
+        "en": "Why do religions that advocate unity divide the human race?",
+        "de": "Warum teilen Religionen, die sich für die Einheit einsetzen, die Menschheit?",
+        "fr": "Pourquoi les religions prônant l'unité divisent-elles la race humaine?"
+    },
+    "04-28": {
+        "en": "If you could live one day of your life over again, what day would you choose?",
+        "de": "Wenn Sie einen Tag Ihres Lebens noch einmal leben könnten, welchen Tag würden Sie wählen?",
+        "fr": "Si vous pouviez revivre un jour de votre vie, quel jour choisiriez-vous?"
+    },
+    "04-29": {
+        "en": "What can money not buy?",
+        "de": "Was kann Geld nicht kaufen?",
+        "fr": "Qu'est-ce que l'argent ne peut pas acheter?"
+    },
+    "04-30": {
+        "en": "If you left this life tomorrow, how would you be remembered?",
+        "de": "Wenn Sie dieses Leben morgen verlassen würden, wie würden Sie in Erinnerung bleiben?",
+        "fr": "Si tu quittais cette vie demain, comment te souviendrais-tu?"
+    },
+    "05-01": {
+        "en": "Beyond the titles that others have given you, who are you?",
+        "de": "Wer bist du, abgesehen von den Titeln, die andere dir gegeben haben?",
+        "fr": "Au-delà des titres que les autres vous ont donnés, qui êtes-vous?"
+    },
+    "05-02": {
+        "en": "If you could live the next 24 hours and then erase it and start over just once, what would you do?",
+        "de": "Wenn Sie die nächsten 24 Stunden leben und sie dann löschen und nur einmal von vorne beginnen könnten, was würden Sie tun?",
+        "fr": "Si vous pouviez vivre les 24 prochaines heures, puis l'effacer et recommencer une seule fois, que feriez-vous?"
+    },
+    "05-03": {
+        "en": "Is it possible to know the truth without challenging it first?",
+        "de": "Ist es möglich, die Wahrheit zu kennen, ohne sie zuerst herauszufordern?",
+        "fr": "Est-il possible de connaître la vérité sans la contester au préalable?"
+    },
+    "05-04": {
+        "en": "What word best describes the way you've spent the last month of your life?",
+        "de": "Welches Wort beschreibt am besten, wie Sie den letzten Monat Ihres Lebens verbracht haben?",
+        "fr": "Quel mot décrit le mieux la façon dont vous avez passé le dernier mois de votre vie?"
+    },
+    "05-05": {
+        "en": "What makes everyone smile?",
+        "de": "Was bringt alle zum Lächeln?",
+        "fr": "Qu'est-ce qui fait sourire tout le monde?"
+    },
+    "05-06": {
+        "en": "What do you owe yourself?",
+        "de": "Was schuldest du dir?",
+        "fr": "Que te dois-tu?"
+    },
+    "05-07": {
+        "en": "What would your 'priceless' MasterCard-style commercial be?",
+        "de": "Was wäre Ihr \"unbezahlbarer\" Werbespot im MasterCard-Stil?",
+        "fr": "Quelle serait votre publicité inestimable de style MasterCard?"
+    },
+    "05-08": {
+        "en": "Can you think of a time when impossible became possible?",
+        "de": "Können Sie sich eine Zeit vorstellen, in der das Unmögliche möglich wurde?",
+        "fr": "Pouvez-vous penser à un moment où l'impossible est devenu possible?"
+    },
+    "05-09": {
+        "en": "Why do you matter?",
+        "de": "Warum bist du wichtig?",
+        "fr": "Pourquoi importez-vous?"
+    },
+    "05-10": {
+        "en": "How have you changed in the last five years?",
+        "de": "Wie haben Sie sich in den letzten fünf Jahren verändert?",
+        "fr": "Comment avez-vous changé au cours des cinq dernières années?"
+    },
+    "05-11": {
+        "en": "What are you sure of in your life?",
+        "de": "Was bist du dir in deinem Leben sicher?",
+        "fr": "De quoi êtes-vous sûr dans votre vie?"
+    },
+    "05-12": {
+        "en": "When you think of 'home,' what, specifically, do you think of?",
+        "de": "Wenn Sie an \"Zuhause\" denken, woran denken Sie konkret?",
+        "fr": "Quand vous pensez à «chez vous», à quoi, en particulier, pensez-vous?"
+    },
+    "05-13": {
+        "en": "What's the difference between settling for things and accepting the way things are?",
+        "de": "Was ist der Unterschied zwischen der Entscheidung für Dinge und der Akzeptanz der Dinge?",
+        "fr": "Quelle est la différence entre se contenter des choses et accepter la façon dont les choses sont?"
+    },
+    "05-14": {
+        "en": "How many of your friends would you trust with your life?",
+        "de": "Wie viele deiner Freunde würdest du deinem Leben anvertrauen?",
+        "fr": "Combien de vos amis feriez-vous confiance avec votre vie?"
+    },
+    "05-15": {
+        "en": "What's your definition of heaven?",
+        "de": "Was ist deine Definition des Himmels?",
+        "fr": "Quelle est votre définition du paradis?"
+    },
+    "05-16": {
+        "en": "What is your most prized possession?",
+        "de": "Was ist Ihr wertvollster Besitz?",
+        "fr": "Quelle est votre possession la plus précieuse?"
+    },
+    "05-17": {
+        "en": "How would you describe yourself in one sentence?",
+        "de": "Wie würden Sie sich in einem Satz beschreiben?",
+        "fr": "Comment vous décririez-vous en une phrase?"
+    },
+    "05-18": {
+        "en": "What stands between you and happiness?",
+        "de": "Was steht zwischen dir und dem Glück?",
+        "fr": "Qu'est-ce qui vous sépare du bonheur?"
+    },
+    "05-19": {
+        "en": "What makes a person beautiful?",
+        "de": "Was macht einen Menschen schön?",
+        "fr": "Qu'est-ce qui rend une personne belle?"
+    },
+    "05-20": {
+        "en": "Is there ever a time when giving up makes sense?",
+        "de": "Gibt es jemals eine Zeit, in der Aufgeben Sinn macht?",
+        "fr": "Y a-t-il jamais un moment où l'abandon est logique?"
+    },
+    "05-21": {
+        "en": "What makes you proud?",
+        "de": "Was macht dich stolz?",
+        "fr": "Qu'est-ce qui vous rend fier?"
+    },
+    "05-22": {
+        "en": "How do you find the strength to do what you know in your heart is right?",
+        "de": "Wie findest du die Kraft, das zu tun, was du in deinem Herzen weißt, richtig?",
+        "fr": "Comment trouvez-vous la force de faire ce que vous savez que votre cœur a raison?"
+    },
+    "05-23": {
+        "en": "Where do you find peace?",
+        "de": "Wo findest du Frieden?",
+        "fr": "Où trouvez-vous la paix?"
+    },
+    "05-24": {
+        "en": "When have you worked hard and loved every minute of it?",
+        "de": "Wann haben Sie hart gearbeitet und jede Minute davon geliebt?",
+        "fr": "Quand avez-vous travaillé dur et aimé chaque minute?"
+    },
+    "05-25": {
+        "en": "How short would your life have to be before you would start living differently today?",
+        "de": "Wie kurz müsste Ihr Leben sein, bevor Sie heute anders leben würden?",
+        "fr": "Quelle devrait être la durée de votre vie avant de commencer à vivre différemment aujourd'hui?"
+    },
+    "05-26": {
+        "en": "Is it better to have loved and lost or to have never loved at all?",
+        "de": "Ist es besser geliebt und verloren zu haben oder nie geliebt zu haben?",
+        "fr": "Vaut-il mieux avoir aimé et perdu ou n'avoir jamais aimé du tout?"
+    },
+    "05-27": {
+        "en": "What would you do if you madea mistake and somebody died?",
+        "de": "Was würden Sie tun, wenn Sie einen Fehler machen und jemand stirbt?",
+        "fr": "Que feriez-vous si vous vous trompiez et que quelqu'un mourait?"
+    },
+    "05-28": {
+        "en": "Who do you trust and why?",
+        "de": "Wem vertraust du und warum?",
+        "fr": "À qui faites-vous confiance et pourquoi?"
+    },
+    "05-29": {
+        "en": "If you were forced to eliminate every physical possession from your life with the exception of what could fit into a single backpack, what would you put in it?",
+        "de": "Wenn Sie gezwungen wären, jeden physischen Besitz aus Ihrem Leben zu streichen, mit Ausnahme dessen, was in einen einzelnen Rucksack passen könnte, was würden Sie hineinstecken?",
+        "fr": "Si vous étiez obligé d'éliminer toutes les possessions physiques de votre vie à l'exception de ce qui pouvait tenir dans un seul sac à dos, que mettriez-vous dedans?"
+    },
+    "05-30": {
+        "en": "When does silence convey more meaning than words?",
+        "de": "Wann vermittelt Stille mehr Bedeutung als Worte?",
+        "fr": "Quand le silence transmet-il plus de sens que les mots?"
+    },
+    "05-31": {
+        "en": "How do you spend the majority of your free time?",
+        "de": "Wie verbringst du den größten Teil deiner Freizeit?",
+        "fr": "Comment passez-vous la majorité de votre temps libre?"
+    },
+    "06-01": {
+        "en": "Who do you think of first when you think of \"success\"?",
+        "de": "An wen denkst du zuerst, wenn du an \"Erfolg\" denkst?",
+        "fr": "À qui pensez-vous en premier lorsque vous pensez au «succès»?"
+    },
+    "06-02": {
+        "en": "What did you want to be when you grew up?",
+        "de": "Was wolltest du werden, als du aufgewachsen bist?",
+        "fr": "Que vouliez-vous faire quand vous avez grandi?"
+    },
+    "06-03": {
+        "en": "How will today matter in five years from now?",
+        "de": "Wie wird heute in fünf Jahren eine Rolle spielen?",
+        "fr": "Quelle importance aura aujourd'hui dans cinq ans?"
+    },
+    "06-04": {
+        "en": "How have you helped someone else recently?",
+        "de": "Wie haben Sie in letzter Zeit jemand anderem geholfen?",
+        "fr": "Comment avez-vous aidé quelqu'un d'autre récemment?"
+    },
+    "06-05": {
+        "en": "What is your greatest skill?",
+        "de": "Was ist deine größte Fähigkeit?",
+        "fr": "Quelle est votre plus grande compétence?"
+    },
+    "06-06": {
+        "en": "Do you see to believe or believe to see?",
+        "de": "Sehen Sie zu glauben oder zu sehen?",
+        "fr": "Voyez-vous croire ou croire voir?"
+    },
+    "06-07": {
+        "en": "How are you pursuing your dreams right now?",
+        "de": "Wie verfolgst du gerade deine Träume?",
+        "fr": "Comment poursuivez-vous vos rêves en ce moment?"
+    },
+    "06-08": {
+        "en": "What's the next big step you need to take?",
+        "de": "Was ist der nächste große Schritt, den Sie machen müssen?",
+        "fr": "Quelle est la prochaine grande étape que vous devez franchir?"
+    },
+    "06-09": {
+        "en": "If today was the last day of your life, would you want to do what you are about to do today?",
+        "de": "Wenn heute der letzte Tag Ihres Lebens wäre, würden Sie das tun wollen, was Sie heute tun werden?",
+        "fr": "Si aujourd'hui était le dernier jour de votre vie, voudriez-vous faire ce que vous vous apprêtez à faire aujourd'hui?"
+    },
+    "06-10": {
+        "en": "If today was the last day of your life, who would you call and what would you tell them?",
+        "de": "Wenn heute der letzte Tag Ihres Lebens wäre, wen würden Sie anrufen und was würden Sie ihnen sagen?",
+        "fr": "Si aujourd'hui était le dernier jour de votre vie, qui appelleriez-vous et que leur diriez-vous?"
+    },
+    "06-11": {
+        "en": "Who do you dream about?",
+        "de": "Von wem träumst du?",
+        "fr": "De qui rêvez-vous?"
+    },
+    "06-12": {
+        "en": "What do you have trouble seeing clearly in your mind?",
+        "de": "Was haben Sie Probleme, klar in Ihrem Kopf zu sehen?",
+        "fr": "Qu'avez-vous du mal à voir clairement dans votre esprit?"
+    },
+    "06-13": {
+        "en": "What are you looking forward to?",
+        "de": "Auf was freust du dich?",
+        "fr": "Ce que vous cherchez avec impatience?"
+    },
+    "06-14": {
+        "en": "What is the number one thing you want to accomplish before you die?",
+        "de": "Was ist die Nummer eins, die Sie erreichen möchten, bevor Sie sterben?",
+        "fr": "Quelle est la première chose que vous voulez accomplir avant de mourir?"
+    },
+    "06-15": {
+        "en": "When is love a weakness?",
+        "de": "Wann ist Liebe eine Schwäche?",
+        "fr": "Quand l'amour est-il une faiblesse?"
+    },
+    "06-16": {
+        "en": "What has been the most terrifying moment of your life thus far?",
+        "de": "Was war bisher der schrecklichste Moment Ihres Lebens?",
+        "fr": "Quel a été le moment le plus terrifiant de votre vie jusqu'à présent?"
+    },
+    "06-17": {
+        "en": "Who is the strongest person you know?",
+        "de": "Wer ist die stärkste Person, die Sie kennen?",
+        "fr": "Quelle est la personne la plus forte que vous connaissez?"
+    },
+    "06-18": {
+        "en": "If you could take a single photograph of your life, what would it look like?",
+        "de": "Wenn Sie ein einziges Foto Ihres Lebens machen könnten, wie würde es aussehen?",
+        "fr": "Si vous pouviez prendre une seule photo de votre vie, à quoi ressemblerait-elle?"
+    },
+    "06-19": {
+        "en": "Is the reward worth the risk?",
+        "de": "Ist die Belohnung das Risiko wert?",
+        "fr": "La récompense vaut-elle le risque?"
+    },
+    "06-20": {
+        "en": "For you personally, what makes today worth living?",
+        "de": "Was macht heute für Sie persönlich das Leben wert?",
+        "fr": "Pour vous personnellement, qu'est-ce qui vaut aujourd'hui la peine d'être vécu?"
+    },
+    "06-21": {
+        "en": "What have you done in the last year that makes you proud?",
+        "de": "Was hast du im letzten Jahr getan, das dich stolz macht?",
+        "fr": "Qu'avez-vous fait au cours de la dernière année qui vous rend fier?"
+    },
+    "06-22": {
+        "en": "What did you learn recently that changed the way you live?",
+        "de": "Was hast du kürzlich gelernt, das deine Lebensweise verändert hat?",
+        "fr": "Qu'avez-vous appris récemment qui a changé votre façon de vivre?"
+    },
+    "06-23": {
+        "en": "What is your fondest memory from the past three years?",
+        "de": "Was ist Ihre schönste Erinnerung an die letzten drei Jahre?",
+        "fr": "Quel est votre plus beau souvenir des trois dernières années?"
+    },
+    "06-24": {
+        "en": "What are the primary components of a happy life?",
+        "de": "Was sind die Hauptbestandteile eines glücklichen Lebens?",
+        "fr": "Quelles sont les principales composantes d'une vie heureuse?"
+    },
+    "06-25": {
+        "en": "How would the world be different if you were never born?",
+        "de": "Wie würde die Welt anders sein, wenn Sie niemals geboren würden?",
+        "fr": "En quoi le monde serait-il différent si vous n'étiez jamais né?"
+    },
+    "06-26": {
+        "en": "What is your favorite song and why?",
+        "de": "Was ist dein Lieblingslied und warum?",
+        "fr": "Quelle est votre chanson préférée et pourquoi?"
+    },
+    "06-27": {
+        "en": "With the resources you have right now, what can you do to bring yourself closer to your goal?",
+        "de": "Was können Sie mit den Ressourcen, über die Sie gerade verfügen, tun, um Ihrem Ziel näher zu kommen?",
+        "fr": "Avec les ressources dont vous disposez actuellement, que pouvez-vous faire pour vous rapprocher de votre objectif?"
+    },
+    "06-28": {
+        "en": "What are your top three priorities?",
+        "de": "Was sind Ihre drei wichtigsten Prioritäten?",
+        "fr": "Quelles sont vos trois principales priorités?"
+    },
+    "06-29": {
+        "en": "Why do we idolize sports players?",
+        "de": "Warum vergöttern wir Sportler?",
+        "fr": "Pourquoi idolâtrons-nous les sportifs?"
+    },
+    "06-30": {
+        "en": "What is the nicest thing someone has ever done for you?",
+        "de": "Was ist das Schönste, was jemand jemals für Sie getan hat?",
+        "fr": "Quelle est la plus belle chose que quelqu'un ait jamais faite pour vous?"
+    },
+    "07-01": {
+        "en": "What do you see when you look into the future?",
+        "de": "Was sehen Sie, wenn Sie in die Zukunft schauen?",
+        "fr": "Que voyez-vous lorsque vous regardez vers l'avenir?"
+    },
+    "07-02": {
+        "en": "What makes you angry? Why?",
+        "de": "Was macht dich wütend? Warum?",
+        "fr": "Ce qui te met en colère? Pourquoi?"
+    },
+    "07-03": {
+        "en": "What is the most valuable life lesson you learned from your parents?",
+        "de": "Was ist die wertvollste Lektion fürs Leben, die du von deinen Eltern gelernt hast?",
+        "fr": "Quelle est la leçon de vie la plus précieuse que vous avez apprise de vos parents?"
+    },
+    "07-04": {
+        "en": "What does love feel like?",
+        "de": "Wie fühlt sich Liebe an?",
+        "fr": "À quoi ressemble l'amour?"
+    },
+    "07-05": {
+        "en": "What are your favorite simple pleasures?",
+        "de": "Was sind deine einfachen Lieblingsvergnügen?",
+        "fr": "Quels sont vos plaisirs simples préférés?"
+    },
+    "07-06": {
+        "en": "If you could go back in time and tell a younger version of yourself one thing, what would you tell?",
+        "de": "Wenn Sie in die Vergangenheit reisen und einer jüngeren Version von sich etwas erzählen könnten, was würden Sie sagen?",
+        "fr": "Si vous pouviez remonter le temps et raconter une chose à une version plus jeune de vous, que diriez-vous?"
+    },
+    "07-07": {
+        "en": "What do you do to deliberately impress others?",
+        "de": "Was tun Sie, um andere bewusst zu beeindrucken?",
+        "fr": "Que faites-vous pour impressionner délibérément les autres?"
+    },
+    "07-08": {
+        "en": "What will you never do?",
+        "de": "Was wirst du niemals tun?",
+        "fr": "Que ne ferez-vous jamais?"
+    },
+    "07-09": {
+        "en": "Excluding romantic relationships, who do you love?",
+        "de": "Mit Ausnahme romantischer Beziehungen, wen liebst du?",
+        "fr": "À l'exclusion des relations amoureuses, qui aimez-vous?"
+    },
+    "07-10": {
+        "en": "What is your earliest childhood memory?",
+        "de": "Was ist Ihre früheste Kindheitserinnerung?",
+        "fr": "Quel est votre premier souvenir d'enfance?"
+    },
+    "07-11": {
+        "en": "What book has had the greatest influence on your life?",
+        "de": "Welches Buch hat Ihr Leben am meisten beeinflusst?",
+        "fr": "Quel livre a eu la plus grande influence sur votre vie?"
+    },
+    "07-12": {
+        "en": "What three questions do you wish you knew the answers to?",
+        "de": "Auf welche drei Fragen wünschst du dir die Antworten?",
+        "fr": "À quelles trois questions souhaiteriez-vous connaître les réponses?"
+    },
+    "07-13": {
+        "en": "What is the greatest peer pressure you've ever felt?",
+        "de": "Was ist der größte Gruppenzwang, den Sie jemals gefühlt haben?",
+        "fr": "Quelle est la plus grande pression des pairs que vous ayez jamais ressentie?"
+    },
+    "07-14": {
+        "en": "What's the biggest lie you once believed was true?",
+        "de": "Was war die größte Lüge, von der Sie einst glaubten, dass sie wahr ist?",
+        "fr": "Quel est le plus gros mensonge que vous croyiez autrefois vrai?"
+    },
+    "07-15": {
+        "en": "In your lifetime, what have you done that hurt someone else?",
+        "de": "Was haben Sie in Ihrem Leben getan, das jemand anderem wehgetan hat?",
+        "fr": "Au cours de votre vie, qu'avez-vous fait qui a blessé quelqu'un d'autre?"
+    },
+    "07-16": {
+        "en": "What's the best part of growing older?",
+        "de": "Was ist der beste Teil des Älterwerdens?",
+        "fr": "Quelle est la meilleure partie de vieillir?"
+    },
+    "07-17": {
+        "en": "What's been on your mind most lately?",
+        "de": "Was hast du in letzter Zeit gedacht?",
+        "fr": "Qu'avez-vous pensé le plus récemment?"
+    },
+    "07-18": {
+        "en": "What do you think is worth waiting for?",
+        "de": "Worauf lohnt es sich zu warten?",
+        "fr": "À votre avis, que vaut-il la peine d'attendre?"
+    },
+    "07-19": {
+        "en": "What chances do you wish you had taken?",
+        "de": "Welche Chancen hätten Sie gerne genutzt?",
+        "fr": "Quelles chances souhaiteriez-vous avoir prises?"
+    },
+    "07-20": {
+        "en": "Where else would you like to live? Why?",
+        "de": "Wo sonst würdest du gerne leben? Warum?",
+        "fr": "Où d'autre aimeriez-vous vivre? Pourquoi?"
+    },
+    "07-21": {
+        "en": "What motivates you to go to work each day?",
+        "de": "Was motiviert Sie, jeden Tag zur Arbeit zu gehen?",
+        "fr": "Qu'est-ce qui vous motive à aller travailler chaque jour?"
+    },
+    "07-22": {
+        "en": "What do you wish you had done differently?",
+        "de": "Was wünschst du dir, du hättest es anders gemacht?",
+        "fr": "Qu'aimeriez-vous avoir fait différemment?"
+    },
+    "07-23": {
+        "en": "What is your greatest strength and your greatest weakness?",
+        "de": "Was ist deine größte Stärke und deine größte Schwäche?",
+        "fr": "Quelle est votre plus grande force et votre plus grande faiblesse?"
+    },
+    "07-24": {
+        "en": "When was the last time you lied? What did you lie about?",
+        "de": "Wann hast du das letzte Mal gelogen? Worüber hast du gelogen?",
+        "fr": "À quand remonte la dernière fois que vous avez menti? De quoi avez-vous menti?"
+    },
+    "07-25": {
+        "en": "What made you smile this week?",
+        "de": "Was hat dich diese Woche zum Lächeln gebracht?",
+        "fr": "Qu'est-ce qui vous a fait sourire cette semaine?"
+    },
+    "07-26": {
+        "en": "What do you do with the majority of your money?",
+        "de": "Was machst du mit dem Großteil deines Geldes?",
+        "fr": "Que faites-vous avec la majorité de votre argent?"
+    },
+    "07-27": {
+        "en": "What motivates you to be your best?",
+        "de": "Was motiviert dich, dein Bestes zu geben?",
+        "fr": "Qu'est-ce qui vous motive à être à votre meilleur?"
+    },
+    "07-28": {
+        "en": "When was the last time you lost your temper?About what?",
+        "de": "Wann haben Sie das letzte Mal die Beherrschung verloren? Worüber?",
+        "fr": "À quand remonte la dernière fois que vous avez perdu votre sang-froid?"
+    },
+    "07-29": {
+        "en": "What will you never give up on?",
+        "de": "Was wirst du niemals aufgeben?",
+        "fr": "À quoi n'abandonnerez-vous jamais?"
+    },
+    "07-30": {
+        "en": "When you look into the past, what do you miss the most?",
+        "de": "Was vermissen Sie am meisten, wenn Sie in die Vergangenheit schauen?",
+        "fr": "Quand vous regardez dans le passé, qu'est-ce qui vous manque le plus?"
+    },
+    "07-31": {
+        "en": "How would you describe the past year of your life in one sentence?",
+        "de": "Wie würden Sie das vergangene Jahr Ihres Lebens in einem Satz beschreiben?",
+        "fr": "Comment décririez-vous la dernière année de votre vie en une phrase?"
+    },
+    "08-01": {
+        "en": "What is the most spontaneous thing you've ever done?",
+        "de": "Was ist das Spontanste, was du jemals getan hast?",
+        "fr": "Quelle est la chose la plus spontanée que vous ayez jamais faite?"
+    },
+    "08-02": {
+        "en": "What makes you uncomfortable?",
+        "de": "Was macht dich unwohl?",
+        "fr": "Qu'est-ce qui vous met mal à l'aise?"
+    },
+    "08-03": {
+        "en": "If you had to move 3000 miles away, what one thing would you miss the most?",
+        "de": "Wenn Sie 3000 Meilen entfernt sein müssten, was würden Sie am meisten vermissen?",
+        "fr": "Si vous deviez vous éloigner de 3000 miles, quelle serait la chose qui vous manquerait le plus?"
+    },
+    "08-04": {
+        "en": "What worries you about the future?",
+        "de": "Was macht dir Sorgen um die Zukunft?",
+        "fr": "Qu'est-ce qui vous inquiète pour l'avenir?"
+    },
+    "08-05": {
+        "en": "What one 'need' and one 'want' will you strive to achieve in the next twelve months?",
+        "de": "Welches \"Bedürfnis\" und ein \"Wollen\" wollen Sie in den nächsten zwölf Monaten erreichen?",
+        "fr": "À quel «besoin» et à quel «désir» vous efforcerez-vous de parvenir au cours des douze prochains mois?"
+    },
+    "08-06": {
+        "en": "What life lessons did you have to experience firsthand before you fully understood them?",
+        "de": "Welche Lebensstunden mussten Sie aus erster Hand erleben, bevor Sie sie vollständig verstanden haben?",
+        "fr": "Quelles leçons de vie avez-vous eu à expérimenter avant de les avoir pleinement comprises?"
+    },
+    "08-07": {
+        "en": "Do you like the city or town you live in? Why or why not?",
+        "de": "Magst du die Stadt, in der du lebst? Warum oder warum nicht?",
+        "fr": "Aimez-vous la ville ou le village où vous vivez? Pourquoi ou pourquoi pas?"
+    },
+    "08-08": {
+        "en": "What's the best part of being you?",
+        "de": "Was ist das Beste daran, du zu sein?",
+        "fr": "Quelle est la meilleure partie d'être toi?"
+    },
+    "08-09": {
+        "en": "When you look back over the past month, what single moment stands out?",
+        "de": "Wenn Sie auf den letzten Monat zurückblicken, welcher einzelne Moment fällt auf?",
+        "fr": "Quand vous regardez en arrière au cours du mois dernier, quel moment unique se démarque?"
+    },
+    "08-10": {
+        "en": "What do you do to relieve stress?",
+        "de": "Was tun Sie, um Stress abzubauen?",
+        "fr": "Que faites-vous pour soulager le stress?"
+    },
+    "08-11": {
+        "en": "What is your happiest memory?",
+        "de": "Was ist deine glücklichste Erinnerung?",
+        "fr": "Quel est votre souvenir le plus heureux?"
+    },
+    "08-12": {
+        "en": "What is your saddest memory?",
+        "de": "Was ist deine traurigste Erinnerung?",
+        "fr": "Quel est votre souvenir le plus triste?"
+    },
+    "08-13": {
+        "en": "What would you like to change?",
+        "de": "Was würdest du gerne Ändern?",
+        "fr": "Qu'aimeriez-vous changer?"
+    },
+    "08-14": {
+        "en": "How many people do you love?",
+        "de": "Wie viele Menschen liebst du?",
+        "fr": "Combien de personnes aimez-vous?"
+    },
+    "08-15": {
+        "en": "What's the best decision you've ever made?",
+        "de": "Was ist die beste Entscheidung, die Sie jemals getroffen haben?",
+        "fr": "Quelle est la meilleure décision que vous ayez jamais prise?"
+    },
+    "08-16": {
+        "en": "What's your favorite true story that you enjoy sharing with others?",
+        "de": "Was ist deine wahre Lieblingsgeschichte, die du gerne mit anderen teilst?",
+        "fr": "Quelle est votre histoire vraie préférée que vous aimez partager avec les autres?"
+    },
+    "08-17": {
+        "en": "Right now, at this moment, what do you want most?",
+        "de": "Was willst du gerade in diesem Moment am meisten?",
+        "fr": "En ce moment, en ce moment, que voulez-vous le plus?"
+    },
+    "08-18": {
+        "en": "What are you waiting for?How are you writing your life's story?",
+        "de": "Worauf warten Sie noch? Wie schreiben Sie Ihre Lebensgeschichte?",
+        "fr": "Qu'attendez-vous, comment écrivez-vous l'histoire de votre vie?"
+    },
+    "08-19": {
+        "en": "What makes love last?",
+        "de": "Was macht Liebe zuletzt?",
+        "fr": "Qu'est-ce qui fait durer l'amour?"
+    },
+    "08-20": {
+        "en": "What good comes from suffering?",
+        "de": "Was nützt das Leiden?",
+        "fr": "À quoi bon la souffrance?"
+    },
+    "08-21": {
+        "en": "What's the most important lesson you've learned in the last year?",
+        "de": "Was ist die wichtigste Lektion, die Sie im letzten Jahr gelernt haben?",
+        "fr": "Quelle est la leçon la plus importante que vous ayez apprise au cours de la dernière année?"
+    },
+    "08-22": {
+        "en": "Based on you current daily actions and routines, where would you expect to be in five years?",
+        "de": "Wo würden Sie auf der Grundlage Ihrer aktuellen täglichen Aktionen und Routinen in fünf Jahren rechnen?",
+        "fr": "D'après vos actions et routines quotidiennes actuelles, où vous attendriez-vous dans cinq ans?"
+    },
+    "08-23": {
+        "en": "What was your last major accomplishment?",
+        "de": "Was war Ihre letzte große Leistung?",
+        "fr": "Quelle a été votre dernière grande réalisation?"
+    },
+    "08-24": {
+        "en": "Through all of life's twists and turns who has been there for you?",
+        "de": "Wer war in all den Wendungen des Lebens für Sie da?",
+        "fr": "À travers tous les rebondissements de la vie, qui a été là pour vous?"
+    },
+    "08-25": {
+        "en": "What or who has been distracting you?",
+        "de": "Was oder wer hat dich abgelenkt?",
+        "fr": "Quoi ou qui vous a distrait?"
+    },
+    "08-26": {
+        "en": "What are you looking forward to in the upcoming week?",
+        "de": "Worauf freust du dich in der kommenden Woche?",
+        "fr": "Qu'attendez-vous avec impatience la semaine prochaine?"
+    },
+    "08-27": {
+        "en": "Who is your mentor and what have you learned from them?",
+        "de": "Wer ist dein Mentor und was hast du von ihnen gelernt?",
+        "fr": "Qui est votre mentor et qu'avez-vous appris d'eux?"
+    },
+    "08-28": {
+        "en": "What are you uncertain about?",
+        "de": "Worüber bist du unsicher?",
+        "fr": "De quoi êtes-vous incertain?"
+    },
+    "08-29": {
+        "en": "What do you think about when you lie awake in bed?",
+        "de": "Woran denkst du, wenn du wach im Bett liegst?",
+        "fr": "À quoi pensez-vous lorsque vous êtes éveillé au lit?"
+    },
+    "08-30": {
+        "en": "What's something most people don't know about you?",
+        "de": "Was wissen die meisten Leute nicht über dich?",
+        "fr": "Qu'est-ce que la plupart des gens ignorent de vous?"
+    },
+    "08-31": {
+        "en": "When you have a random hour of free time, what do you usually do?",
+        "de": "Was machen Sie normalerweise, wenn Sie eine zufällige Stunde Freizeit haben?",
+        "fr": "Lorsque vous avez une heure libre au hasard, que faites-vous habituellement?"
+    },
+    "09-01": {
+        "en": "What makes you weird?",
+        "de": "Was macht dich komisch?",
+        "fr": "Qu'est-ce qui vous rend bizarre?"
+    },
+    "09-02": {
+        "en": "If you could relive yesterday what would you do differently?",
+        "de": "Wenn Sie gestern noch einmal erleben könnten, was würden Sie anders machen?",
+        "fr": "Si vous pouviez revivre hier, que feriez-vous différemment?"
+    },
+    "09-03": {
+        "en": "What do you do over and over again that you hate doing?",
+        "de": "Was machst du immer und immer wieder, was du hasst?",
+        "fr": "Que faites-vous encore et encore que vous détestez faire?"
+    },
+    "09-04": {
+        "en": "Would you rather your child be less attractive and extremely intelligent or extremely attractive and less intelligent?",
+        "de": "Möchten Sie lieber, dass Ihr Kind weniger attraktiv und äußerst intelligent oder äußerst attraktiv und weniger intelligent ist?",
+        "fr": "Préférez-vous que votre enfant soit moins attrayant et extrêmement intelligent ou extrêmement attrayant et moins intelligent?"
+    },
+    "09-05": {
+        "en": "What white lies do you often tell?",
+        "de": "Welche Notlügen erzählen Sie oft?",
+        "fr": "Quels mensonges blancs dites-vous souvent?"
+    },
+    "09-06": {
+        "en": "What is the biggest change you have made in your life in the last year?",
+        "de": "Was war die größte Veränderung, die Sie im letzten Jahr in Ihrem Leben vorgenommen haben?",
+        "fr": "Quel est le plus grand changement que vous ayez apporté dans votre vie au cours de la dernière année?"
+    },
+    "09-07": {
+        "en": "What do you understand today about your life that you did not understand a year ago?",
+        "de": "Was verstehen Sie heute über Ihr Leben, das Sie vor einem Jahr nicht verstanden haben?",
+        "fr": "Que comprenez-vous aujourd'hui de votre vie que vous ne compreniez pas il y a un an?"
+    },
+    "09-08": {
+        "en": "Whose life have you had thegreatest impact on?",
+        "de": "Auf wessen Leben hattest du den größten Einfluss?",
+        "fr": "Sur quelle vie avez-vous eu le plus grand impact?"
+    },
+    "09-09": {
+        "en": "What did life teach you yesterday?",
+        "de": "Was hat dir das Leben gestern beigebracht?",
+        "fr": "Qu'est-ce que la vie vous a appris hier?"
+    },
+    "09-10": {
+        "en": "Who impresses you?",
+        "de": "Wer beeindruckt dich?",
+        "fr": "Qui t'impressionne?"
+    },
+    "09-11": {
+        "en": "What have you done that you are not proud of?",
+        "de": "Was hast du getan, auf das du nicht stolz bist?",
+        "fr": "Qu'avez-vous fait dont vous n'êtes pas fier?"
+    },
+    "09-12": {
+        "en": "When should you reveal a secret that you promised you wouldn't reveal?",
+        "de": "Wann sollten Sie ein Geheimnis preisgeben, von dem Sie versprochen haben, dass Sie es nicht preisgeben würden?",
+        "fr": "Quand devez-vous révéler un secret que vous aviez promis de ne pas révéler?"
+    },
+    "09-13": {
+        "en": "How would you spend your ideal day?",
+        "de": "Wie würden Sie Ihren idealen Tag verbringen?",
+        "fr": "Comment passeriez-vous votre journée idéale?"
+    },
+    "09-14": {
+        "en": "What is the one primary quality you look for in a significant other?",
+        "de": "Was ist die eine Hauptqualität, nach der Sie bei einem bedeutenden anderen suchen?",
+        "fr": "Quelle est la première qualité que vous recherchez chez un autre significatif?"
+    },
+    "09-15": {
+        "en": "What do you admire most about your mother and father?",
+        "de": "Was bewundern Sie am meisten an Ihrer Mutter und Ihrem Vater?",
+        "fr": "Qu'est-ce que tu admires le plus chez ta mère et ton père?"
+    },
+    "09-16": {
+        "en": "What is the best advice you have ever received?",
+        "de": "Was ist der beste Rat, den Sie jemals erhalten haben?",
+        "fr": "Quel est le meilleur conseil que vous ayez jamais reçu?"
+    },
+    "09-17": {
+        "en": "If you could live forever, would you want to? Why?",
+        "de": "Wenn du für immer leben könntest, würdest du es wollen? Warum?",
+        "fr": "Si vous pouviez vivre éternellement, le voudriez-vous? Pourquoi?"
+    },
+    "09-18": {
+        "en": "If you had to be someone else for one day, who would you be and why?",
+        "de": "Wenn Sie für einen Tag jemand anderes sein müssten, wer wären Sie und warum?",
+        "fr": "Si vous deviez être quelqu'un d'autre pendant une journée, qui seriez-vous et pourquoi?"
+    },
+    "09-19": {
+        "en": "What positive changes have you made in your life recently?",
+        "de": "Welche positiven Veränderungen haben Sie in letzter Zeit in Ihrem Leben vorgenommen?",
+        "fr": "Quels changements positifs avez-vous apportés récemment dans votre vie?"
+    },
+    "09-20": {
+        "en": "Who makes you feel good about yourself?",
+        "de": "Mit wem fühlst du dich gut?",
+        "fr": "Qui vous fait vous sentir bien dans votre peau?"
+    },
+    "09-21": {
+        "en": "What is your biggest regret?",
+        "de": "Was ist dein größtes Bedauern?",
+        "fr": "Quel est ton plus grand regret?"
+    },
+    "09-22": {
+        "en": "Which one of your responsibilities do you wish you could get rid of?",
+        "de": "Welche Ihrer Aufgaben möchten Sie gerne loswerden?",
+        "fr": "De quelles responsabilités voudriez-vous vous débarrasser?"
+    },
+    "09-23": {
+        "en": "What's something you don't like to do that you are still really good at?",
+        "de": "Was machst du nicht gerne, in dem du immer noch sehr gut bist?",
+        "fr": "Qu'est-ce que tu n'aimes pas faire et pour lequel tu es encore très bon?"
+    },
+    "09-24": {
+        "en": "What type of person angers you the most?",
+        "de": "Welche Art von Person ärgert dich am meisten?",
+        "fr": "Quel type de personne vous met le plus en colère?"
+    },
+    "09-25": {
+        "en": "What is missing in your life?",
+        "de": "Was fehlt in deinem Leben?",
+        "fr": "Qu'est-ce qui manque dans ta vie?"
+    },
+    "09-26": {
+        "en": "What is your most striking physical attribute?",
+        "de": "Was ist Ihre auffälligste körperliche Eigenschaft?",
+        "fr": "Quel est votre attribut physique le plus frappant?"
+    },
+    "09-27": {
+        "en": "What has fear of failure stopped you from doing?",
+        "de": "Was hat Sie von der Angst vor dem Scheitern abgehalten?",
+        "fr": "Qu'est-ce que la peur de l'échec vous a empêché de faire?"
+    },
+    "09-28": {
+        "en": "Who would you like to please the most?",
+        "de": "Wen möchten Sie am liebsten zufrieden stellen?",
+        "fr": "À qui aimeriez-vous le plus plaire?"
+    },
+    "09-29": {
+        "en": "If you could go back in timeand change things, what would you change about the week that just passed?",
+        "de": "Wenn Sie in der Zeit zurückkehren und Dinge ändern könnten, was würden Sie an der Woche ändern, die gerade vergangen ist?",
+        "fr": "Si vous pouviez remonter dans le temps et changer les choses, que changeriez-vous de la semaine qui vient de s'écouler?"
+    },
+    "09-30": {
+        "en": "When you meet someone for the very first time what do you want them to think about you?",
+        "de": "Wenn Sie jemanden zum ersten Mal treffen, was möchten Sie, dass er über Sie nachdenkt?",
+        "fr": "Lorsque vous rencontrez quelqu'un pour la toute première fois, que voulez-vous qu'il pense de vous?"
+    },
+    "10-01": {
+        "en": "Who would you like to forgive?",
+        "de": "Wem möchten Sie vergeben?",
+        "fr": "Qui voudriez-vous pardonner?"
+    },
+    "10-02": {
+        "en": "At what point during the last five years have you felt lost and alone?",
+        "de": "Wann haben Sie sich in den letzten fünf Jahren verloren und allein gefühlt?",
+        "fr": "À quel moment au cours des cinq dernières années vous êtes-vous senti perdu et seul?"
+    },
+    "10-03": {
+        "en": "What is one opportunity you believe you missed out on when you were younger?",
+        "de": "Was ist eine Gelegenheit, die Sie Ihrer Meinung nach verpasst haben, als Sie jünger waren?",
+        "fr": "Selon vous, quelle occasion avez-vous manquée lorsque vous étiez plus jeune?"
+    },
+    "10-04": {
+        "en": "What do you want more of in your life?",
+        "de": "Was willst du mehr in deinem Leben?",
+        "fr": "Que voulez-vous de plus dans votre vie?"
+    },
+    "10-05": {
+        "en": "What do you want less of in your life?",
+        "de": "Was willst du weniger in deinem Leben?",
+        "fr": "Que voulez-vous de moins dans votre vie?"
+    },
+    "10-06": {
+        "en": "Who depends on you?",
+        "de": "Wer hängt von dir ab?",
+        "fr": "Qui dépend de toi?"
+    },
+    "10-07": {
+        "en": "Who has had the greatest impact on your life?",
+        "de": "Wer hat Ihr Leben am meisten beeinflusst?",
+        "fr": "Qui a eu le plus grand impact sur votre vie?"
+    },
+    "10-08": {
+        "en": "Are you happy with where you are in your life? Why?",
+        "de": "Bist du glücklich darüber, wo du in deinem Leben bist? Warum?",
+        "fr": "Êtes-vous satisfait de votre position dans votre vie? Pourquoi?"
+    },
+    "10-09": {
+        "en": "In one year from today, how do you think your life will be different?",
+        "de": "Wie denkst du, wird dein Leben in einem Jahr anders sein?",
+        "fr": "Dans un an à partir d'aujourd'hui, comment pensez-vous que votre vie sera différente?"
+    },
+    "10-10": {
+        "en": "How have you sabotaged yourself in the past five years?",
+        "de": "Wie haben Sie sich in den letzten fünf Jahren sabotiert?",
+        "fr": "Comment vous êtes-vous saboté au cours des cinq dernières années?"
+    },
+    "10-11": {
+        "en": "Other than money, what else have you gained from your current job?",
+        "de": "Was haben Sie außer Geld noch von Ihrem derzeitigen Job gewonnen?",
+        "fr": "À part l'argent, qu'avez-vous gagné d'autre de votre emploi actuel?"
+    },
+    "10-12": {
+        "en": "Whom do you secretly envy? Why?",
+        "de": "Wen beneiden Sie heimlich? Warum?",
+        "fr": "À qui enviez-vous secrètement? Pourquoi?"
+    },
+    "10-13": {
+        "en": "Intwenty years, what do you want to remember?",
+        "de": "In zwanzig Jahren, woran möchten Sie sich erinnern?",
+        "fr": "Vingt ans, que voulez-vous retenir?"
+    },
+    "10-14": {
+        "en": "What are you most excited about in your life right now - today?",
+        "de": "Worauf freust du dich gerade in deinem Leben - heute?",
+        "fr": "Qu'est-ce qui vous excite le plus dans votre vie en ce moment - aujourd'hui?"
+    },
+    "10-15": {
+        "en": "What experience from this past year do you appreciate the most?",
+        "de": "Welche Erfahrungen aus dem vergangenen Jahr schätzen Sie am meisten?",
+        "fr": "Quelle expérience de cette dernière année appréciez-vous le plus?"
+    },
+    "10-16": {
+        "en": "What is the most enjoyable thing your family has done together in the last three years?",
+        "de": "Was ist das Schönste, was Ihre Familie in den letzten drei Jahren zusammen gemacht hat?",
+        "fr": "Quelle est la chose la plus agréable que votre famille ait faite ensemble au cours des trois dernières années?"
+    },
+    "10-17": {
+        "en": "How many hours of television do you watch in a week? A month? A year?",
+        "de": "Wie viele Stunden Fernsehen sehen Sie in einer Woche? Ein Monat? Ein Jahr?",
+        "fr": "Combien d'heures de télévision regardez-vous en une semaine? Un mois? Une année?"
+    },
+    "10-18": {
+        "en": "What is the biggest obstacle that stands in your way right now?",
+        "de": "Was ist das größte Hindernis, das Ihnen derzeit im Weg steht?",
+        "fr": "Quel est le plus grand obstacle qui se trouve sur votre chemin en ce moment?"
+    },
+    "10-19": {
+        "en": "What do you sometimes pretend you understand that you really don't?",
+        "de": "Was tun Sie manchmal so, als würden Sie verstehen, dass Sie es wirklich nicht tun?",
+        "fr": "Que prétendez-vous parfois comprendre que vous ne comprenez pas vraiment?"
+    },
+    "10-20": {
+        "en": "What do you like most about your job? What do you dislike most about your job?",
+        "de": "Was magst du am meisten an deinem Job? Was magst du an deinem Job am wenigsten?",
+        "fr": "Qu'est-ce que vous aimez le plus dans votre travail? Qu'est-ce qui vous déplaît le plus dans votre travail?"
+    },
+    "10-21": {
+        "en": "What's something new you recently learned about yourself?",
+        "de": "Was hast du kürzlich über dich gelernt?",
+        "fr": "Qu'avez-vous appris récemment sur vous-même?"
+    },
+    "10-22": {
+        "en": "In one sentence, how would you describe your relationship with your mother?",
+        "de": "Wie würden Sie in einem Satz Ihre Beziehung zu Ihrer Mutter beschreiben?",
+        "fr": "En une phrase, comment décririez-vous votre relation avec votre mère?"
+    },
+    "10-23": {
+        "en": "What was the most defining moment in your life during this past year?",
+        "de": "Was war der wichtigste Moment in Ihrem Leben im vergangenen Jahr?",
+        "fr": "Quel a été le moment le plus déterminant de votre vie au cours de la dernière année?"
+    },
+    "10-24": {
+        "en": "What's the number one change you need to make in your life in the next twelve months?",
+        "de": "Was ist die wichtigste Änderung, die Sie in den nächsten zwölf Monaten in Ihrem Leben vornehmen müssen?",
+        "fr": "Quel est le changement numéro un que vous devez faire dans votre vie au cours des douze prochains mois?"
+    },
+    "10-25": {
+        "en": "What makes you feel secure?",
+        "de": "Wodurch fühlst du dich sicher?",
+        "fr": "Qu'est-ce qui vous fait vous sentir en sécurité?"
+    },
+    "10-26": {
+        "en": "What is your favorite sound?",
+        "de": "Was ist dein Lieblingssound?",
+        "fr": "Quel est ton son préféré?"
+    },
+    "10-27": {
+        "en": "What are the top three qualities you look for in a friend?",
+        "de": "Was sind die drei besten Eigenschaften, nach denen Sie bei einem Freund suchen?",
+        "fr": "Quelles sont les trois principales qualités que vous recherchez chez un ami?"
+    },
+    "10-28": {
+        "en": "What simple gesture have you recently witnessed that renewed your hope inhumanity?",
+        "de": "Welche einfache Geste haben Sie kürzlich gesehen, die Ihre Hoffnung auf Unmenschlichkeit erneuert hat?",
+        "fr": "De quel geste simple avez-vous récemment assisté qui a renouvelé votre espoir inhumain?"
+    },
+    "10-29": {
+        "en": "What is your favorite smell?",
+        "de": "Was ist dein Lieblingsgeruch?",
+        "fr": "Quelle est votre odeur préférée?"
+    },
+    "10-30": {
+        "en": "What recent memory makes you smile the most?",
+        "de": "Welche jüngste Erinnerung bringt Sie am meisten zum Lächeln?",
+        "fr": "Quel souvenir récent vous fait le plus sourire?"
+    },
+    "10-31": {
+        "en": "In one word, how would you describe your childhood?",
+        "de": "Mit einem Wort, wie würden Sie Ihre Kindheit beschreiben?",
+        "fr": "En un mot, comment décririez-vous votre enfance?"
+    },
+    "11-01": {
+        "en": "What celebrities do you admire? Why?",
+        "de": "Welche Prominenten bewundern Sie? Warum?",
+        "fr": "Quelles célébrités admirez-vous? Pourquoi?"
+    },
+    "11-02": {
+        "en": "What is the number one motivator in your life right now?",
+        "de": "Was ist momentan der Hauptmotivator in Ihrem Leben?",
+        "fr": "Quel est le facteur de motivation numéro un dans votre vie en ce moment?"
+    },
+    "11-03": {
+        "en": "What music do you listen to to lift your spirits when you're feeling down?",
+        "de": "Welche Musik hörst du, um deine Stimmung zu heben, wenn du dich niedergeschlagen fühlst?",
+        "fr": "Quelle musique écoutez-vous pour remonter le moral lorsque vous vous sentez déprimé?"
+    },
+    "11-04": {
+        "en": "If I gave you $1000 and told you that you had to spend it today, what would you buy?",
+        "de": "Wenn ich Ihnen 1000 Dollar geben würde und Ihnen sagen würde, dass Sie es heute ausgeben müssten, was würden Sie kaufen?",
+        "fr": "Si je vous donnais 1000 $ et vous disais que vous deviez le dépenser aujourd'hui, qu'achèteriez-vous?"
+    },
+    "11-05": {
+        "en": "What was the last thing that made you laugh out loud?",
+        "de": "Was hat dich zuletzt zum Lachen gebracht?",
+        "fr": "Quelle est la dernière chose qui vous a fait rire aux éclats?"
+    },
+    "11-06": {
+        "en": "What is your biggest pet peeve?",
+        "de": "Was ist dein größtes Ärgernis?",
+        "fr": "Quelle est votre plus grande bête noire?"
+    },
+    "11-07": {
+        "en": "Who was the last person you said \"I love you\" to?",
+        "de": "Zu wem hast du zuletzt \"Ich liebe dich\" gesagt?",
+        "fr": "À qui était la dernière personne à qui vous avez dit \"Je t'aime\"?"
+    },
+    "11-08": {
+        "en": "What is your biggest phobia?",
+        "de": "Was ist Ihre größte Phobie?",
+        "fr": "Quelle est votre plus grande phobie?"
+    },
+    "11-09": {
+        "en": "What are some recent compliments you've received?",
+        "de": "Was sind einige der jüngsten Komplimente, die Sie erhalten haben?",
+        "fr": "Quels compliments récents avez-vous reçus?"
+    },
+    "11-10": {
+        "en": "How many friends do you have in real life that you talk to regularly?",
+        "de": "Wie viele Freunde hast du im wirklichen Leben, mit denen du regelmäßig sprichst?",
+        "fr": "Combien d'amis avez-vous dans la vraie vie avec qui vous parlez régulièrement?"
+    },
+    "11-11": {
+        "en": "How much money per month is enough for you to live comfortably?",
+        "de": "Wie viel Geld pro Monat reicht aus, um bequem zu leben?",
+        "fr": "Combien d'argent par mois vous suffit-il pour vivre confortablement?"
+    },
+    "11-12": {
+        "en": "When was your first impression of someone totally wrong?",
+        "de": "Wann war Ihr erster Eindruck von jemandem völlig falsch?",
+        "fr": "À quand remonte votre première impression de quelqu'un totalement faux?"
+    },
+    "11-13": {
+        "en": "How many hours a week do you spend online?",
+        "de": "Wie viele Stunden pro Woche verbringen Sie online?",
+        "fr": "Combien d'heures par semaine passez-vous en ligne?"
+    },
+    "11-14": {
+        "en": "What do you love to do?",
+        "de": "Was machst du am liebsten?",
+        "fr": "Qu'est-ce que vous aimez faire?"
+    },
+    "11-15": {
+        "en": "What specific character trait do you want to be known for?",
+        "de": "Für welches spezifische Charaktermerkmal möchten Sie bekannt sein?",
+        "fr": "Pour quel trait de caractère spécifique voulez-vous être connu?"
+    },
+    "11-16": {
+        "en": "Are you more like your mom or your dad? In what way?",
+        "de": "Bist du eher wie deine Mutter oder dein Vater? Inwiefern?",
+        "fr": "Êtes-vous plutôt comme votre maman ou votre papa? De quelle manière?"
+    },
+    "11-17": {
+        "en": "What is the number onequality that makes someone a good leader?",
+        "de": "Was ist die Nummer eins, die jemanden zu einem guten Führer macht?",
+        "fr": "Quelle est la qualité numéro un qui fait de quelqu'un un bon leader?"
+    },
+    "11-18": {
+        "en": "What bad habits do you want to break?",
+        "de": "Welche schlechten Gewohnheiten möchten Sie brechen?",
+        "fr": "Quelles mauvaises habitudes voulez-vous rompre?"
+    },
+    "11-19": {
+        "en": "What is your favorite place on Earth?",
+        "de": "Was ist dein Lieblingsort auf der Erde?",
+        "fr": "Quel est votre endroit préféré sur Terre?"
+    },
+    "11-20": {
+        "en": "What do you love to practice?",
+        "de": "Was liebst du gerne?",
+        "fr": "Qu'aimez-vous pratiquer?"
+    },
+    "11-21": {
+        "en": "What questions do you often ask yourself?",
+        "de": "Welche Fragen stellen Sie sich oft?",
+        "fr": "Quelles questions vous posez-vous souvent?"
+    },
+    "11-22": {
+        "en": "What are you an expert at?",
+        "de": "Was sind Sie ein Experte?",
+        "fr": "En quoi êtes-vous un expert?"
+    },
+    "11-23": {
+        "en": "How would an extra $1000 a month change your life?",
+        "de": "Wie würden zusätzliche 1000 USD pro Monat Ihr Leben verändern?",
+        "fr": "Comment un supplément de 1000 $ par mois changerait-il votre vie?"
+    },
+    "11-24": {
+        "en": "What things in life should always be free?",
+        "de": "Welche Dinge im Leben sollten immer frei sein?",
+        "fr": "Quelles choses dans la vie devraient toujours être gratuites?"
+    },
+    "11-25": {
+        "en": "What is your favorite time of the year?",
+        "de": "Was ist deine Lieblingszeit des Jahres?",
+        "fr": "Quelle est votre période préférée de l'année?"
+    },
+    "11-26": {
+        "en": "What is something you have always wanted since you were a kid?",
+        "de": "Was wollten Sie schon immer, seit Sie ein Kind waren?",
+        "fr": "Qu'est-ce que tu as toujours voulu depuis que tu étais enfant?"
+    },
+    "11-27": {
+        "en": "What is the most recent dream you remember having while sleeping?",
+        "de": "Was ist der letzte Traum, an den Sie sich erinnern, als Sie geschlafen haben?",
+        "fr": "Quel est le rêve le plus récent dont vous vous souvenez avoir dormi?"
+    },
+    "11-28": {
+        "en": "What confuses you?",
+        "de": "Was verwirrt dich?",
+        "fr": "Qu'est-ce qui vous déroute?"
+    },
+    "11-29": {
+        "en": "In what way are you your own worst enemy?",
+        "de": "Inwiefern bist du dein schlimmster Feind?",
+        "fr": "En quoi êtes-vous votre pire ennemi?"
+    },
+    "11-30": {
+        "en": "When did you not speak up when you should have?",
+        "de": "Wann haben Sie nicht gesprochen, wann Sie sollten?",
+        "fr": "Quand n'avez-vous pas pris la parole alors que vous auriez dû?"
+    },
+    "12-01": {
+        "en": "What is your favorite quote?",
+        "de": "Was ist dein Lieblingszitat?",
+        "fr": "Quelle est votre citation préférée?"
+    },
+    "12-02": {
+        "en": "What is your favorite fictional story? (novel, movie, fairytale, etc.)",
+        "de": "Was ist deine fiktive Lieblingsgeschichte? (Roman, Film, Märchen usw.)",
+        "fr": "Quelle est votre histoire fictive préférée? (roman, film, conte de fées, etc.)"
+    },
+    "12-03": {
+        "en": "Where or who do you turn to when you need good advice?",
+        "de": "Wo oder an wen wenden Sie sich, wenn Sie gute Ratschläge benötigen?",
+        "fr": "Vers qui ou vers qui vous tourner lorsque vous avez besoin de bons conseils?"
+    },
+    "12-04": {
+        "en": "What artistic medium do you use to express yourself?",
+        "de": "Mit welchem ​​künstlerischen Medium drücken Sie sich aus?",
+        "fr": "Quel médium artistique utilisez-vous pour vous exprimer?"
+    },
+    "12-05": {
+        "en": "Who or what is the greatest enemy of mankind?",
+        "de": "Wer oder was ist der größte Feind der Menschheit?",
+        "fr": "Qui ou quel est le plus grand ennemi de l'humanité?"
+    },
+    "12-06": {
+        "en": "What's something you wish you had done earlier in life?",
+        "de": "Was wünschst du dir, du hättest es früher im Leben getan?",
+        "fr": "Qu'est-ce que tu aimerais avoir fait plus tôt dans la vie?"
+    },
+    "12-07": {
+        "en": "What is the closest you have ever come to fearing for your life?",
+        "de": "Was ist das Beste, was Sie jemals fürchten müssen, um Ihr Leben zu fürchten?",
+        "fr": "Quel est le plus proche que vous ayez jamais craint pour votre vie?"
+    },
+    "12-08": {
+        "en": "How do you deal with isolation and loneliness?",
+        "de": "Wie gehen Sie mit Isolation und Einsamkeit um?",
+        "fr": "Comment gérez-vous l'isolement et la solitude?"
+    },
+    "12-09": {
+        "en": "What do youknow well enough to teach to others?",
+        "de": "Was weißt du gut genug, um es anderen beizubringen?",
+        "fr": "Que savez-vous assez bien pour enseigner aux autres?"
+    },
+    "12-10": {
+        "en": "What's a quick decision you once made that changed your life?",
+        "de": "Was ist eine schnelle Entscheidung, die Ihr Leben verändert hat?",
+        "fr": "Quelle décision rapide avez-vous prise une fois qui a changé votre vie?"
+    },
+    "12-11": {
+        "en": "What have you lost interest in recently?",
+        "de": "Wofür haben Sie in letzter Zeit das Interesse verloren?",
+        "fr": "À quoi vous êtes-vous récemment désintéressé?"
+    },
+    "12-12": {
+        "en": "What makes life easier?",
+        "de": "Was macht das Leben leichter?",
+        "fr": "Qu'est-ce qui rend la vie plus facile?"
+    },
+    "12-13": {
+        "en": "What was the last thing you furiously argued about with someone?",
+        "de": "Was war das Letzte, worüber Sie sich mit jemandem wütend gestritten haben?",
+        "fr": "Quelle est la dernière chose dont vous vous êtes disputé furieusement avec quelqu'un?"
+    },
+    "12-14": {
+        "en": "What job would you never do no matter how much it paid?",
+        "de": "Welchen Job würdest du niemals machen, egal wie viel es bezahlt hat?",
+        "fr": "Quel travail ne feriez-vous jamais, peu importe combien il a payé?"
+    },
+    "12-15": {
+        "en": "What is the number one solution to healing the world?",
+        "de": "Was ist die Lösung Nummer eins, um die Welt zu heilen?",
+        "fr": "Quelle est la solution numéro un pour guérir le monde?"
+    },
+    "12-16": {
+        "en": "What could society do without?",
+        "de": "Was könnte die Gesellschaft ohne tun?",
+        "fr": "De quoi la société pourrait-elle se passer?"
+    },
+    "12-17": {
+        "en": "What stresses you out?",
+        "de": "Was betont dich?",
+        "fr": "Qu'est-ce qui vous stresse?"
+    },
+    "12-18": {
+        "en": "Now that it's behind you, what did you do last week that was memorable?",
+        "de": "Was hast du letzte Woche getan, das war unvergesslich?",
+        "fr": "Maintenant que c'est derrière vous, qu'avez-vous fait la semaine dernière qui a été mémorable?"
+    },
+    "12-19": {
+        "en": "Where do you spend most of your time while you're awake?",
+        "de": "Wo verbringst du die meiste Zeit, während du wach bist?",
+        "fr": "Où passez-vous la plupart de votre temps lorsque vous êtes éveillé?"
+    },
+    "12-20": {
+        "en": "What makes someone a hero?",
+        "de": "Was macht jemanden zum Helden?",
+        "fr": "Qu'est-ce qui fait de quelqu'un un héros?"
+    },
+    "12-21": {
+        "en": "When in your life have you been a victim of stereotyping?",
+        "de": "Wann in Ihrem Leben waren Sie Opfer von Stereotypen?",
+        "fr": "À quel moment dans votre vie avez-vous été victime de stéréotypes?"
+    },
+    "12-22": {
+        "en": "When was the last time you felt lucky?",
+        "de": "Wann haben Sie sich das letzte Mal glücklich gefühlt?",
+        "fr": "À quand remonte la dernière fois que vous avez eu de la chance?"
+    },
+    "12-23": {
+        "en": "When did you first realize that life is short?",
+        "de": "Wann haben Sie zum ersten Mal gemerkt, dass das Leben kurz ist?",
+        "fr": "Quand avez-vous réalisé pour la première fois que la vie est courte?"
+    },
+    "12-24": {
+        "en": "What is the most insensitive thing a person can do?",
+        "de": "Was ist das Unempfindlichste, was eine Person tun kann?",
+        "fr": "Quelle est la chose la plus insensible qu'une personne puisse faire?"
+    },
+    "12-25": {
+        "en": "What can someone do tograb your attention?",
+        "de": "Was kann jemand tun, um Ihre Aufmerksamkeit zu erregen?",
+        "fr": "Que peut-on faire pour attirer votre attention?"
+    },
+    "12-26": {
+        "en": "What do you usually think about on your drive home from work?",
+        "de": "Woran denken Sie normalerweise auf Ihrer Heimfahrt von der Arbeit?",
+        "fr": "À quoi pensez-vous habituellement en rentrant du travail?"
+    },
+    "12-27": {
+        "en": "What's one downside of the modern day world?",
+        "de": "Was ist ein Nachteil der modernen Welt?",
+        "fr": "Quel est un inconvénient du monde moderne?"
+    },
+    "12-28": {
+        "en": "What simple fact do you wish more people understood?",
+        "de": "Welche einfache Tatsache möchten Sie, dass mehr Menschen verstanden werden?",
+        "fr": "Quel simple fait souhaitez-vous que plus de gens soient compris?"
+    },
+    "12-29": {
+        "en": "If you could do it all over again, would you change anything?",
+        "de": "Wenn Sie es noch einmal machen könnten, würden Sie etwas ändern?",
+        "fr": "Si vous pouviez recommencer, changeriez-vous quelque chose?"
+    },
+    "12-30": {
+        "en": "How would you describe your future in three words?",
+        "de": "Wie würden Sie Ihre Zukunft in drei Worten beschreiben?",
+        "fr": "Comment décririez-vous votre avenir en trois mots?"
+    },
+    "12-31": {
+        "en": "What is the best or worst present you ever received?",
+        "de": "Was ist das beste oder schlechteste Geschenk, das Sie jemals erhalten haben?",
+        "fr": "Quel est le meilleur ou le pire cadeau que vous ayez jamais reçu?"
+    }
+}
