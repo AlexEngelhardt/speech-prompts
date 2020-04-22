@@ -1,6 +1,6 @@
 import json
 import datetime
-import numpy as np
+import random
 
 with open('questions/questions.json', 'r') as f:
     questions = json.load(f)
@@ -8,7 +8,9 @@ with open('questions/questions.json', 'r') as f:
 
 def get_random_question(lang='en'):
     days = list(questions.keys())
-    return questions[np.random.choice(days)][lang]
+    i = random.randrange(0, len(days))  # do without np.random so that AWS Lambda doesn't need numpy
+    key = list(questions)[i]
+    return questions[key][lang]
 
 
 def get_todays_question(lang='en'):
