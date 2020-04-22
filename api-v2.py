@@ -9,8 +9,8 @@ from webargs import fields, validate
 from webargs.flaskparser import parser
 
 
-# This is now the recommended way to parse GET arguments. flask_restful.reqparse
-# is deprecated.
+# This is now the recommended way to parse GET arguments.
+# flask_restful.reqparse is deprecated.
 # https://webargs.readthedocs.io/en/latest/quickstart.html
 get_lang_arg = {
     'lang': fields.Str(
